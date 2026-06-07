@@ -14,8 +14,8 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <a href="visheshjaiswar009@gmail.com" className="w-10 h-10 rounded-xl glass border border-slate-200 dark:border-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all shadow-sm"><i className="fa-solid fa-envelope"></i></a>
-              <a href="https://linkedin.com/in/yourusername" className="w-10 h-10 rounded-xl glass border border-slate-200 dark:border-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all shadow-sm"><i className="fa-brands fa-linkedin-in"></i></a>
-              <a href="https://github.com/yourusername" className="w-10 h-10 rounded-xl glass border border-slate-200 dark:border-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all shadow-sm"><i className="fa-brands fa-github"></i></a>
+              <a href="https://www.linkedin.com/in/vishesh-jaiswar-5a0b94394/" className="w-10 h-10 rounded-xl glass border border-slate-200 dark:border-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all shadow-sm"><i className="fa-brands fa-linkedin-in"></i></a>
+              <a href="https://github.com/krisjais" className="w-10 h-10 rounded-xl glass border border-slate-200 dark:border-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all shadow-sm"><i className="fa-brands fa-github"></i></a>
             </div>
           </div>
 

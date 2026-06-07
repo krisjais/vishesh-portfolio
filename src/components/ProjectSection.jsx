@@ -51,6 +51,11 @@ export default function ProjectGallery() {
       title: "Social Dashboard",
       tech: "Open AI • Tailwind • React",
       image: "/Screenshot (234).png",
+    },
+    {
+      title: "InterntionShip Tracker",
+      tech: "Next.js • Tailwind • MongoDB",
+       ,
     }
   ];
 
